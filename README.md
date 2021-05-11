@@ -2,10 +2,10 @@
 ## This is the second largest Heading
 ###### This is the smallest Heading
 **This is bold text** & __This is also bold text__
-*This is italic text* & _this is also italic text_
-~~This text has a strikthrough~~
-**This text is bold, and this is _italic bold_**
-***This text is italix and bold***
+<br />*This is italic text* & _this is also italic text_
+<br />~~This text has a strikthrough~~
+<br />**This text is bold, and this is _italic bold_**
+<br />***This text is italix and bold***
 > quotes can be annotated like this
 single line `code` can be called like this
 multi line can be called like this
@@ -15,6 +15,7 @@ code
 ```
 
 [Links](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) can be added like this
+<br />
 [Relative Links](folder/filename.extension) can be added like this, linking to a rendered file in your repository (and all operands
 such as ./ and ../ will work within the url extension)
 
