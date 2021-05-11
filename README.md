@@ -22,8 +22,10 @@ such as ./ and ../ will work within the url extension)
 * Bulleted Lists
 * can be made using the asterisk operand
 
-1. numbered Lists
+1. numbered lists
 2. can be made like this
+
+<br />
 
 1. nested lists
   - can be made
