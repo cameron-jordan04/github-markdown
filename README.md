@@ -36,4 +36,4 @@ such as ./ and ../ will work within the url extension)
 
 :EMOJICODE: will allow you to add emojis to your .md file, and if typing in the Github editor, typing : will bring up a list of suggestions
 
-Github will ignore any markdown syntax if it is following a \, ex. \* text \* will not render as italic
+Github will ignore any markdown syntax if it is following a back slash, ex. \* text \* will not render as italic
