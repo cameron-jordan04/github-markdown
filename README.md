@@ -28,7 +28,7 @@ such as ./ and ../ will work within the url extension)
 <br />
 
 1. nested lists
-  - can be made
+   - can be made
     - by doing this
 
 - [ ] task lists can be made like this
